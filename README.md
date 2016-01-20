@@ -2,6 +2,9 @@
 
 [The Silver Searcher](https://github.com/ggreer/the_silver_searcher) - A code searching tool similar to ack, with a focus on speed.
 
+
+[![Build Status](https://travis-ci.org/telusdigital/ansible-silversearcher.svg?branch=master)](https://travis-ci.org/telusdigital/ansible-silversearcher)
+
 [![Platforms](http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat)](#)
 
 Tunables
